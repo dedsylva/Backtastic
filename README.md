@@ -1,4 +1,4 @@
-# Backtastic - A Fantastic Backtest of a few simple Quantitative Algs"
+# Backtastic - A Fantastic Backtest of a few simple Quantitative Algs
 
 ## How to Use
 
