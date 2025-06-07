@@ -3,6 +3,10 @@
 ## How to Use
 
 - Clone the repo
+- Run the requirements.txt for installing the dependencies
+
+```pip3 install -r requirements.txt```
+
 - Execute the following python file (be aware that you might have to use python3 download_data.py) because of the interpreter (or just change the first line to your interpreter):
 
 ```python3 download_data.py```
